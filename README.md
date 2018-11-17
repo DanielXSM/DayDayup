@@ -5,7 +5,7 @@
 |知识点|更新日期|
 |:---:|:---:|
 |[》》》》》》》》spring的重试机制《《《《《《《《](https://github.com/DanielXSM/DayDayup/wiki/spring%E7%9A%84%E9%87%8D%E8%AF%95%E6%9C%BA%E5%88%B6)|2018-09-28|
-|[》》》》》》》》OkHttpClient的使用《《《《《《《《](OkHttpClient的使用)|2018-09-28|
+|[》》》》》》》》OkHttpClient的使用《《《《《《《《](https://github.com/DanielXSM/DayDayup/wiki/OkHttpClient%E7%9A%84%E4%BD%BF%E7%94%A8)|2018-09-28|
 |[》》》》》》》》》数据结构的分析《《《《《《《《《](数据结构的分析)|2018-09-30|
 |[》》》》》》》》》队列的分析总结《《《《《《《《《](队列的分析总结)|2018-10-12|
 |[》》》》》》》》》java的中各种锁《《《《《《《《《](java的中各种锁)|2018-10-26|
