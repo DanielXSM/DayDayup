@@ -1,6 +1,6 @@
 # DayDayup
 每日收获 
-# Day Day Up
+
 
 |知识点|更新日期|
 |:---:|:---:|
@@ -14,4 +14,13 @@
 |[》》》》》》》》》反射机制的渗透《《《《《《《《《](https://github.com/DanielXSM/DayDayup/wiki/%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6%E7%9A%84%E6%B8%97%E9%80%8F)|2018-11-08|
 |[》》》》》》》》》代理模式的详解《《《《《《《《《](https://github.com/DanielXSM/DayDayup/wiki/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F%E7%9A%84%E8%AF%A6%E8%A7%A3)|2018-11-08|
 |[》》》》》》》》》springBoot的详解《《《《《《《《《](springBoot的详解)|2018-11-16|
-|[》》》》》》》》》Linux的基本操作《《《《《《《《《](https://github.com/DanielXSM/DayDayup/wiki/linux%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)|2018-11-17|
+|[》》》》》》》》》Linux的基本操作《《《《《《《《《](https://github.com/DanielXSM/DayDayup/wiki/linux%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)|2018-11-17|  
+
+
+
+
+
+
+![what](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1538153662354&di=c2265f3dd308bc67ba03c7af3e896ee4&imgtype=0&src=http%3A%2F%2Fwww.jituwang.com%2Fuploads%2Fallimg%2F140102%2F259696-14010220334680.jpg)
+# create by Daniel !
+
